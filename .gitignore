@@ -3,8 +3,6 @@
 gradle-app.setting
 *.class
 *.log
-*.jar
-*.war
 *.zip
 *.tar.gz
 hs_err_pid*

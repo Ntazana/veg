@@ -9,5 +9,6 @@ public class VegPrice {
         this.shopName = shopName;
         this.vegName = vegName;
         this.price = price;
+        /*comment in jave
     }
 }
